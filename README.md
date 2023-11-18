@@ -6,6 +6,7 @@ O primeiro passo é baixar as bases de dados que serão utilizadas no processo d
 O banco merged é a junção dos transcritos do refseq e do ensembl.
 
 Baixe o banco de dados homo_sapiens_merged_110_GRCh37.zip
-´´´´
+
+```
 aria2c -x 8 https://storage.googleapis.com/puga-reference/homo_sapiens_merged_110_GRCh37.zip
-´´´
+```
